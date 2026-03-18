@@ -79,6 +79,3 @@ weathernow/
 └── package.json
 ```
 
-## License
-
-MIT
